@@ -65,7 +65,7 @@
 ###
 
 <div align="center">
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=feemno10&show_icons=true&locale=en&theme=dracula" alt="earthcheetos" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=feemno10&show_icons=true&locale=en&theme=dracula" alt="feemno10" /></p>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Feemno10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
